@@ -64,5 +64,5 @@ Number_of_users = Intercept + B1(Treatment) + B2(Post) + B3(Treatment x Post) + 
 
 Ceteris paribus, the North region had more than 2.7 million users than the South. We find both economically and statistically significant coefficients at 95% of confidence. Additionally, when we estimate its interaction during a pandemic period, it decreases to -2.2 million users, which is an economical and statistically significant coefficient too. This value is excellent proof of what we saw graphically in maps: the Northern side of Chicago was the most impacted by the Covid-19 pandemic. 
 
-In conclusion, the Covid-19 pandemic directly affected the transportation system of Chicago as a whole, but some regions were critically affected compared with others. This brief study should be a starting point for future research regarding how the pandemic affected urban policies in big cities.
+In conclusion, the Covid-19 pandemic directly affected the transportation system of Chicago as a whole, but some regions were critically affected compared with others. This brief study should be a starting point for future research regarding how the pandemic affected urban transportation in big cities.
 
